@@ -119,4 +119,4 @@ Which two sites seem to cluster well together?
 
 ### Formatting: (2 pts)
 
-Comment your code, write full sentences, and knit your file!
+Comment your code, write full sentences, knit your file, and select all appropriate pages in Gradescope for each question!
